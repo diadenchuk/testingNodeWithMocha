@@ -1,0 +1,22 @@
+{
+  "name": "testingnodewithmocha",
+  "version": "1.0.0",
+  "description": "https://app.pluralsight.com/library/courses/mocha-javascript-testing-nodejs/table-of-contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diadenchuk/testingNodeWithMocha.git"
+  },
+  "author": "Serhii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diadenchuk/testingNodeWithMocha/issues"
+  },
+  "homepage": "https://github.com/diadenchuk/testingNodeWithMocha#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
